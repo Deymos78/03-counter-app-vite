@@ -5,3 +5,5 @@ Aqui se colocaran los comandos, cambios y configuraciones necesarias para que se
 **Nos posicionamos en una carpeta y ejecutamos el siguiente comando**
 
     npm create vite
+
+__Elegiremos a continuacion las caracteristicas de la aplicacione segun nuestros requerimientos__
